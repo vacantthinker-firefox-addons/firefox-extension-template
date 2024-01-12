@@ -1,0 +1,20 @@
+{
+  "name": "firefox-extension-template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "tmp.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "author": "vacantthinker",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/firefox-webext-browser": "latest",
+    "@types/node": "latest",
+    "archiver": "^5.3.1",
+    "copy-webpack-plugin": "latest",
+    "file-loader": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest"
+  }
+}

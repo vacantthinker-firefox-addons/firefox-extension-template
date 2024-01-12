@@ -1,2 +1,10 @@
-# firefox-extension-template
-firefox-extension-template
+
+# first
+```shell
+npm install
+```
+
+# second
+```shell
+node tmp.js
+```
